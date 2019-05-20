@@ -1,0 +1,3 @@
+Problem is changed. 
+The real problem is to measure and compare processing time of 
+each operation with various IGraph's realizations
